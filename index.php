@@ -201,17 +201,17 @@ class Constants {
 	 */
     public static $friendlyNames = array(
         "UNITID" => "Unique Identification Number", //UNITID
-        "INSTNM" => "Institution (entity) name", //INSTNM
-        "ADDR" => "Street address or post office box", //ADDR
-        "CITY" => "City location of institution", //CITY
+        "INSTNM" => "Institution Name", //INSTNM
+        "ADDR" => "Street Address or PO Box", //ADDR
+        "CITY" => "City", //CITY
         "STABBR" => "State Abbreviation", //STABBR
-        "ZIP" => "ZIP code", //ZIP
+        "ZIP" => "ZIP Code", //ZIP
         "FIPS" => "FIPS state code", //FIPS
-        "OBEREG" => "Geographic region", //OBEREG
-        "CHFNM" => "Name of chief administrator", //CHFNM
-        "CHFTITLE" => "Title of chief administrator", //CHFTITLE
-        "GENTELE" => "General information telephone number", //GENTELE
-        "FAXTELE" => "Fax number", //FAXTELE
+        "OBEREG" => "Geographic Region", //OBEREG
+        "CHFNM" => "Chief administrator", //CHFNM
+        "CHFTITLE" => "Title of Chief Administrator", //CHFTITLE
+        "GENTELE" => "General Telephone No.", //GENTELE
+        "FAXTELE" => "Fax Number", //FAXTELE
         "EIN" => "Employer Identification Number", //EIN
         "OPEID" => "Office of Postsecondary Education (OPE) ID Number", //OPEID
         "OPEFLAG" => "OPE Title IV eligibility indicator code", //OPEFLAG
