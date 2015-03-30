@@ -58,8 +58,6 @@ class CSVReader {
                 } else {
                     $record = array_combine($headers, $data);
                     $result[$record['UNITID']] = $record;
-                    //print_r($result); Diagnostic Line
-                    //echo '<br>';
                 }
             }
             fclose($inputFile); //Close the file.
