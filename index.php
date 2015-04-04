@@ -187,6 +187,7 @@ class Page {
             $record = $this->recordContent[$id];
             echo $record->getEntry();
             echo "<br>\n";
+			echo "<a href=\"".$_SERVER['PHP_SELF']."\">Back to Directory</a>";
         }
     }
 
